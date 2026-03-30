@@ -5,7 +5,6 @@ int main()
 {
 	int n1, n2;
 	int N, sum;
-
 	cout << "Input two values separated by spaces.\n";
 	cin >> n1 >> n2;
 	cout << "Enter number of iterations (N>2)\n";
@@ -18,4 +17,3 @@ int main()
 		n2 = sum;
 	}
 }
-
